@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/TheKidPadra"><img src="https://api.daily.dev/devcards/fd0bcbbf4acf4cc0a54519dcdfe63abc.png?r=tdb" width="400" alt="Padra Esfandiyar's Dev Card"/></a>
+<a href="https://app.daily.dev/TheKidPadra"><img src="https://api.daily.dev/devcards/fd0bcbbf4acf4cc0a54519dcdfe63abc.png?r=tdb" width="300" alt="Padra Esfandiyar's Dev Card"/></a>
 
 
 <!--
