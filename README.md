@@ -1,9 +1,12 @@
 ### Hi there 👋
 
+<a href="https://app.daily.dev/TheKidPadra"><img src="https://api.daily.dev/devcards/fd0bcbbf4acf4cc0a54519dcdfe63abc.png?r=tdb" width="400" alt="Padra Esfandiyar's Dev Card"/></a>
+
+
 <!--
 **TheKidPadra/TheKidPadra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<a href="https://app.daily.dev/TheKidPadra"><img src="https://api.daily.dev/devcards/fd0bcbbf4acf4cc0a54519dcdfe63abc.png?r=tdb" width="400" alt="Padra Esfandiyar's Dev Card"/></a>
+
 
 
 Here are some ideas to get you started:
