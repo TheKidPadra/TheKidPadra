@@ -1,7 +1,138 @@
-### Hi there 👋
+## 👋 Hey everyone, I'm Padra Esfandiyar®™ AKA TheKidPadra®™ 👋
+<!--
+**TheKidPadra/TheKidPadra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-<a href="https://app.daily.dev/TheKidPadra"><img src="https://api.daily.dev/devcards/fd0bcbbf4acf4cc0a54519dcdfe63abc.png?r=tdb" width="300" alt="Padra Esfandiyar's Dev Card"/></a>
+<!-- <img src=""> this is another way you can add in images and allows you to scale them -->
 
+![mylivewallpapers-com-Lee-Punishi](https://github.com/TheKidPadra/TheKidPadra/blob/main/mylivewallpapers-com-Lee-Punishi.gif)
+
+I’m interested in investigative studies in machine learning, especially for generative models and probabilistic deep learning models.I’m currently a MSc 
+AI and Robotics student @ SUT working on causal learning and diffusion models.Every day, here, I get to create awesome experiences and engage with the vibrant GitHub developer community and I love it.So with that being said Feel free to get in touch 😊
+
+<!-- ![2021-08-10 20-43-14 2021-08-10 20_45_32](https://user-images.githubusercontent.com/36594527/131284497-24a6db5f-d86d-4548-81cc-fa6aa186892c.gif) -->
+
+<a href="https://app.daily.dev/TheKidPadra"><img align="right" width="320" height="450" src="https://api.daily.dev/devcards/fd0bcbbf4acf4cc0a54519dcdfe63abc.png?r=tdb" width="700" alt="Padra Esfandiyar's Dev Card"/></a>
+
+
+### Find me all around the web:
+
+<p align="left">
+<a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/socials/twitter%20(2).png" title = "Twitter" alt="" height="30" /></a>
+<a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/socials/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
+<a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/socials/instagram.png" alt="" height="30" /></a>
+<a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/socials/twitch.png" alt="" height="30" /></a>
+<a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/socials/youtube.png" alt="" height="30" /></a>
+<a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/socials/chrome.png" alt="" height="30" /></a>
+<a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/socials/devto.png" alt="" height="30" /></a>
+<a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/socials/spotify.png" alt="" height="40" /></a>
+<a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/socials/Kaggle_logo.png" alt="" height="30" /></a>
+<a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/socials/HackerRank.png" alt="" height="30" /></a>
+<a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/socials/dailydev.png" alt="" height="30" /></a>
+<a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/socials/stackoverflow.png" alt="" height="30" /></a>
+
+</p>
+
+<!-- TODO add in the rest of the URLs -->
+### I'm a gamer too, so you might find me on:
+<a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/Game%20Icons/discord.png" height="30" /></a>
+<a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/Game%20Icons/ESO.png" height="30" /></a> 
+<a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/Game%20Icons/Epic.png" height="30" /></a> 
+<a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/Game%20Icons/LoL.png" height="30" /></a>
+<a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/Game%20Icons/Battlenet.png" height="30" /></a>
+<a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/Game%20Icons/Xbox.png" height="30" /></a> 
+<a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/Game%20Icons/PS.png" height="30" /></a> 
+<a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/Game%20Icons/PoGo.png" height="30" /></a> 
+<a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/Game%20Icons/Shadowverse.png" height="30" /></a> 
+<a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/Game%20Icons/Steam.png" height="30" /></a>
+<a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/Game%20Icons/Switch.png" height="30" /></a>
+<a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/Game%20Icons/arena.png" height="30" /></a>
+
+### I'm listening to:
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=vc2yli4tj0cu5qjyuso4kjd4x&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=vc2yli4tj0cu5qjyuso4kjd4x&redirect=true)
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22a52oj3e5hnylnh2ua2e6loy&cover_image=true&theme=novatorem&bar_color=24b6f5&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+### Pins:
+[![@mishmanners's Holopin board](https://holopin.io/api/user/board?user=mishmanners)](https://holopin.io/@mishmanners)
+
+### Watch, read, and catch up on content:
+- [GitHub blog articles](https://github.blog/) :books:
+- [Esports articles on Upcomer](https://upcomer.com/) 🕹️ Daily Esports
+- [Gaming articles on Gamepur](https://www.gamepur.com/) 🎮
+- [Tech reviews on TechAU](https://techau.com.au/) 🖥️
+- [Blog posts on DEV](https://dev.to/) ✍️
+- [Blog posts on Codenewbies](https://community.codenewbie.org/) 💽
+- [Go watch her streams 😊](https://www.twitch.tv/aruuu/videos?filter=highlights&sort=time) 🎥
+- [Sessionize Profile](https://sessionize.com/)
+
+<img align="right" width="150" height="150" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/My-OctocatsShortest.gif"></a>
+### Some Fun Facts about me:
+I've founded a few companies in the past :zap: I love playing video games but I don't stream that much maybe more in the future I don't know.I'm super into sports, including lots of outdoor adventures like hiking, snowboarding, swimming, and working out every day.For a quick response, DM me on Instagram or Twitter and for more formal matter contact me via email.
+
+## GitHub Stats
+
+If you haven't had a chance to check out [GitHub Skyline](https://skyline.github.com/) yet, do it now. It's a 3D visualisation of your contribution graph. You can interact with your 3D graph, make a video, download the STL file, add annotations, and even view it in Virtual Reality - you'll need a phone and a Google Cardboard to do this, or you can break out the fancy VR headsets. You can also view the ASCII art, and if you know the code combination, you can view the Konami code (コナミコマンド).
+
+As for the charts 🥧, if you like my A++ stats, then you can make your own by checking out the [GitHub Readme Stats Repo](https://github.com/anuraghazra/github-readme-stats) and [🔥 GitHub Readme Streak Stats](https://github-readme-streak-stats.herokuapp.com/demo/).
+
+<!-- 2020 graph
+<img src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ezgif-4-5370f601a9b3.gif" width="700"> -->
+
+<!-- 2021 Skyline -->
+<img src="https://user-images.githubusercontent.com/36594527/208378907-aa4a028f-5546-4ac4-9245-140a80bec975.gif" width="700">
+
+<img src="https://github-readme-stats.vercel.app/api?username=TheKidPadra&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for MishManners" width="700">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=TheKidPadra&theme=jolly" width="700">
+
+```ascii 
+          My 2022 GitHub Skyline
+          
+          ✧                ☽                  ▁
+          ✧                 ✦          ✦ ▄✦█   █ 
+     ✧ ✦ ✧                  ▃          ▅ █ █▂  █     
+✧                 ✦     ▂   █          █ █ ██ ▇█✧ ✧▂
+ ▂▁▄✦▁▂▁▂▁ ▅ ▇▂▁▅      ▅█▂  █  ▁  ✧ ▂▃ █▁█ ██▂██▇▄ █
+▁█████████▇██████▇██▇█▇███▇▇█▇▆█▆▇▇███▇███▇██████████
+```
+<!--
+   
+          My 2021 GitHub Skyline          
+
+         ✦                 ✦    ▁          ☽     ✦   
+ ✦                 █          ▁▄██      ✧     ✧      
+ ✧                ✦█  ▁ ▇     ████    ✦ ✧            
+  ✧   ✧   ✦  ▃     █✦ █✧█▂   ▇████ ▇▅   ▃ ✧✧     ▅   
+ ▃▁ ✧▂▅▂▅▂▃▅▁█ ✦▇  █▇▅█▃██▄███████▅██▅▂▄██▄▄▁ ▁▁✦█▂  
+▁██▅██████████▁▇█▆▇██████████████████████████▇██████▅
+
+```
+
+``` 
+          @TheKidPadra' 2020 GitHub Skyline          
+
+     ✦            ✦    ✦    ✦ ▁               ✧  ✦   
+                         ▁    █        ▃          █  
+ ✧    ✦             ▇    █    █✦  ☽ ▂▄ █ ▇       ✧█  
+  ▆  ✧   ▄ ✧  ▆ ▄   █    █ ▄  █ ▂✦▄ ██▆█ █        █  
+  █▅▃▃▁ ▁█ ▃▃▅█▆█▃▃▅█▅▃ ▃█▃█▃▃█▅█▅█▆████▃█ ▃✧▅▃ ▃ █▁ 
+▁▁█████▅██▅████████████▅██████████████████▅█▁██▅█▁██▁
+
+```
+--!>
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=mishmanners&theme=radical)](https://github.com/ryo-ma/github-profile-trophy) ONLY if I want to show the trophy things here -->
+
+### Watch my contribution graph get eaten by the snake 🐍
+
+<!-- platane/snk works, it just puts it on a new branch 
+![TheKidPadra's snake gif](https://github.com/mishmanners/MishManners/blob/output/github-contribution-grid-snake.svg)-->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/TheKidPadra/TheKidPadra/blob/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/TheKidPadra/TheKidPadra/blob/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/TheKidPadra/TheKidPadra/blob/output/github-contribution-grid-snake.svg">
+</picture>
 
 <!--
 **TheKidPadra/TheKidPadra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
