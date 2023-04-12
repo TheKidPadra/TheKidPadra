@@ -47,6 +47,27 @@ AI and Robotics student @ SUT working on causal learning and diffusion models.Ev
 <a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/Game%20Icons/Switch.png" height="30" /></a>
 <a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/Game%20Icons/arena.png" height="30" /></a>
 
+
+<!-- TODO add in the rest of the URLs -->
+### Languages, libraries and  Tools:
+<p align="left">
+<a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/tensorflow.png" title = "tensorflow" alt="" height="50" /></a>
+<a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/pytorch.png" alt="" height="30" /></a>
+<a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/numpy.png" alt="" height="30" /></a>
+<a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/opencv.png" alt="" height="30" /></a>
+<a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/jupyter.png" alt="" height="30" /></a>
+<a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/python.png" alt="" height="30" /></a>
+<a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/scikitlearn.png" alt="" height="30" /></a>
+<a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/pandas.png" alt="" height="40" /></a>
+<a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/matplotlib.png" alt="" height="30" /></a>
+<a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/R.png" alt="" height="30" /></a>
+<a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/javascript.png" alt="" height="30" /></a>
+<a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/C.png" alt="" height="30" /></a>
+<a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/c%2B%2B.png" alt="" height="30" /></a>
+<a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/bash.png" alt="" height="30" /></a>
+<a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/git.png" alt="" height="30" /></a>
+<a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/discordpy.png" alt="" height="30" /></a>
+ 
 ### I'm listening to:
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=vc2yli4tj0cu5qjyuso4kjd4x&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=vc2yli4tj0cu5qjyuso4kjd4x&redirect=true)
