@@ -51,22 +51,23 @@ AI and Robotics student @ SUT working on causal learning and diffusion models.Ev
 <!-- TODO add in the rest of the URLs -->
 ### Languages, libraries and  Tools:
 <p align="left">
-<a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/tensorflow.png" title = "tensorflow" alt="" height="50" /></a>
-<a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/pytorch.png" alt="" height="30" /></a>
-<a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/numpy.png" alt="" height="30" /></a>
-<a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/opencv.png" alt="" height="30" /></a>
-<a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/jupyter.png" alt="" height="30" /></a>
-<a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/python.png" alt="" height="30" /></a>
-<a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/scikitlearn.png" alt="" height="30" /></a>
-<a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/pandas.png" alt="" height="40" /></a>
-<a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/matplotlib.png" alt="" height="30" /></a>
-<a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/R.png" alt="" height="30" /></a>
-<a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/javascript.png" alt="" height="30" /></a>
+<a href="https://www.tensorflow.org/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/tensorflow.png" title = "tensorflow" alt="" height="35" /></a>
+<a href="https://pytorch.org/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/pytorch.png" alt="" height="40" /></a>
+ <a href="https://keras.io/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/keras.png" alt="" height="30" /></a>
+<a href="https://numpy.org/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/numpy.png" alt="" height="30" /></a>
+<a href="https://opencv.org/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/opencv.png" alt="" height="30" /></a>
+<a href="https://jupyter.org/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/jupyter.png" alt="" height="40" /></a>
+<a href="https://www.python.org/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/python.png" alt="" height="30" /></a>
+<a href="https://scikit-learn.org" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/scikitlearn.png" alt="" height="30" /></a>
+<a href="https://pandas.pydata.org/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/pandas.png" alt="" height="40" /></a>
+<a href="https://matplotlib.org/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/matplotlib.png" alt="" height="30" /></a>
+<a href="https://www.r-project.org/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/R.png" alt="" height="30" /></a>
+<a href="https://www.javascript.com/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/javascript.png" alt="" height="30" /></a>
 <a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/C.png" alt="" height="30" /></a>
-<a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/c%2B%2B.png" alt="" height="30" /></a>
-<a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/bash.png" alt="" height="30" /></a>
-<a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/git.png" alt="" height="30" /></a>
-<a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/discordpy.png" alt="" height="30" /></a>
+<a href="https://isocpp.org/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/c%2B%2B.png" alt="" height="30" /></a>
+<a href="https://www.gnu.org/software/bash/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/bash.png" alt="" height="30" /></a>
+<a href="https://git-scm.com/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/git.png" alt="" height="30" /></a>
+<a href="https://discordpy.readthedocs.io/en/stable/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/discordpy.png" alt="" height="30" /></a>
  
 ### I'm listening to:
 
