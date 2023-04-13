@@ -19,21 +19,21 @@ I’m interested in investigative studies in machine learning, especially for ge
 <a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/socials/twitter%20(2).png" title = "Twitter" alt="" height="30" /></a>
 <a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/socials/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
 <a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/socials/instagram.png" alt="" height="30" /></a>
-<a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/socials/twitch.png" alt="" height="30" /></a>
+<a href="https://www.twitch.tv/thekidpadra" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/socials/twitch.png" alt="" height="30" /></a>
 <a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/socials/youtube.png" alt="" height="30" /></a>
 <a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/socials/chrome.png" alt="" height="30" /></a>
 <a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/socials/devto.png" alt="" height="30" /></a>
-<a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/socials/spotify.png" alt="" height="40" /></a>
-<a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/socials/Kaggle_logo.png" alt="" height="30" /></a>
-<a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/socials/HackerRank.png" alt="" height="30" /></a>
-<a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/socials/dailydev.png" alt="" height="30" /></a>
-<a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/socials/stackoverflow.png" alt="" height="30" /></a>
+<a href="https://open.spotify.com/user/vc2yli4tj0cu5qjyuso4kjd4x" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/socials/spotify.png" alt="" height="40" /></a>
+<a href="https://www.kaggle.com/padraesfandiar" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/socials/Kaggle_logo.png" alt="" height="30" /></a>
+<a href="https://www.hackerrank.com/TheKidPadra" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/socials/HackerRank.png" alt="" height="30" /></a>
+<a href="https://app.daily.dev/TheKidPadra" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/socials/dailydev.png" alt="" height="30" /></a>
+<a href="https://stackoverflow.com/users/21357173/padra-esfandiyar" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/socials/stackoverflow.png" alt="" height="30" /></a>
 
 </p>
 
 <!-- TODO add in the rest of the URLs -->
 ### I'm a gamer too, so you might find me on:
-<a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/Game%20Icons/discord.png" height="30" /></a>
+<a href="http://discordapp.com/users/483432773416386581" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/Game%20Icons/discord.png" height="30" /></a>
 <a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/Game%20Icons/ESO.png" height="30" /></a> 
 <a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/Game%20Icons/Epic.png" height="30" /></a> 
 <a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/Game%20Icons/LoL.png" height="30" /></a>
