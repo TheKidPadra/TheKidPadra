@@ -61,6 +61,7 @@ I’m interested in investigative studies in machine learning, especially for ge
 <a href="https://pandas.pydata.org/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/pandas.png" alt="" height="40" /></a>
 <a href="https://matplotlib.org/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/matplotlib.png" alt="" height="30" /></a>
 <a href="https://www.r-project.org/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/R.png" alt="" height="30" /></a>
+<a href="https://matlab.mathworks.com/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/Matlab.png" alt="" height="30" /></a>
 <a href="https://www.javascript.com/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/javascript.png" alt="" height="30" /></a>
 <a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/C.png" alt="" height="30" /></a>
 <a href="https://isocpp.org/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/c%2B%2B.png" alt="" height="30" /></a>
