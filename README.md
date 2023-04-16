@@ -76,8 +76,8 @@ I’m interested in investigative studies in machine learning, especially for ge
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22a52oj3e5hnylnh2ua2e6loy&cover_image=true&theme=novatorem&bar_color=24b6f5&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-### Pins:
-[![@mishmanners's Holopin board](https://holopin.io/api/user/board?user=mishmanners)](https://holopin.io/@mishmanners)
+<!--### Pins:
+[![@mishmanners's Holopin board](https://holopin.io/api/user/board?user=mishmanners)](https://holopin.io/@mishmanners)-->
 
 ### Watch, read, and catch up on content:
 - [GitHub blog articles](https://github.blog/) :books:
