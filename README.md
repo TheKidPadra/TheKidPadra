@@ -57,7 +57,7 @@ I’m interested in investigative studies in machine learning, especially for ge
 <a href="https://opencv.org/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/opencv.png" alt="" height="30" /></a>
 <a href="https://jupyter.org/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/jupyter.png" alt="" height="40" /></a>
 <a href="https://deepnote.com/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/deepnote.png" alt="" height="40" /></a>
-<a href="https://www.python.org/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/python.png" alt="" height="30" /></a>
+<a href="" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/python.png" alt="" height="30" /></a>
 <a href="https://scikit-learn.org" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/scikitlearn.png" alt="" height="30" /></a>
 <a href="https://pandas.pydata.org/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/pandas.png" alt="" height="40" /></a>
 <a href="https://matplotlib.org/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/matplotlib.png" alt="" height="30" /></a>
@@ -108,7 +108,7 @@ As for the charts 🥧, if you like my A+ stats, then you can make your own by c
 <img src="https://github-readme-stats.vercel.app/api?username=TheKidPadra&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for MishManners" width="700">
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=TheKidPadra&theme=jolly" width="700">
-<!--
+
 ```ascii 
           My 2022 GitHub Skyline
           
@@ -119,7 +119,7 @@ As for the charts 🥧, if you like my A+ stats, then you can make your own by c
  ▂▁▄✦▁▂▁▂▁ ▅ ▇▂▁▅      ▅█▂  █  ▁  ✧ ▂▃ █▁█ ██▂██▇▄ █
 ▁█████████▇██████▇██▇█▇███▇▇█▇▆█▆▇▇███▇███▇██████████
 ```
--->
+
 <!--
    
           My 2021 GitHub Skyline          
