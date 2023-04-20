@@ -8,7 +8,7 @@
 
 I’m interested in investigative studies in machine learning, especially for generative models and probabilistic deep learning models.I'm really passionate about mathematics. In my senior year of high school, I won a silver medal in the 32nd Iranian Mathematical Olympiad. Ever since then, I've always wanted to study mathematics as my second major, although unforeseen circumstances have prevented me from doing so. However, I still have plans to pursue it in the future and i'm already spending a lot of time for it, as I find the depth and complexity of this scientific field incredibly intriguing.I’m currently a MSc AI and Robotics student @ SUT working on causal learning and diffusion models.Every day, here, I get to create awesome experiences and engage with the vibrant GitHub developer community and I love it.So with that being said Feel free to get in touch 😊
 
-<!-- ![2021-08-10 20-43-14 2021-08-10 20_45_32](https://user-images.githubusercontent.com/36594527/131284497-24a6db5f-d86d-4548-81cc-fa6aa186892c.gif) -->
+<! ![2021-08-10 20-43-14 2021-08-10 20_45_32](https://user-images.githubusercontent.com/36594527/131284497-24a6db5f-d86d-4548-81cc-fa6aa186892c.gif) -->
 
 <a href="https://app.daily.dev/TheKidPadra"><img align="right" width="320" height="450" src="https://api.daily.dev/devcards/fd0bcbbf4acf4cc0a54519dcdfe63abc.png?r=tdb" width="700" alt="Padra Esfandiyar's Dev Card"/></a>
 
