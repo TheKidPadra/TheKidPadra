@@ -151,7 +151,7 @@ As for the charts 🥧, if you like my A+ stats, then you can make your own by c
 <!--
 platane/snk works, it just puts it on a new branch 
 ![TheKidPadra's snake gif](https://github.com/mishmanners/MishManners/blob/output/github-contribution-grid-snake.svg)-->
-<!--
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/TheKidPadra/TheKidPadra/blob/output/github-contribution-grid-snake.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/TheKidPadra/TheKidPadra/blob/output/github-contribution-grid-snake.svg">
