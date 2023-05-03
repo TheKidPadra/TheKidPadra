@@ -79,6 +79,9 @@ I’m interested in investigative studies in machine learning, especially for ge
 <!--### Pins:
 [![@mishmanners's Holopin board](https://holopin.io/api/user/board?user=mishmanners)](https://holopin.io/@mishmanners)-->
 
+[![An image of @thekidpadra's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/thekidpadra)](https://holopin.io/@thekidpadra)
+ 
+ 
 ### Watch, read, and catch up on content:
 - [GitHub blog articles](https://github.blog/) :books:
 - [Esports articles on Upcomer](https://upcomer.com/) 🕹️ Daily Esports
