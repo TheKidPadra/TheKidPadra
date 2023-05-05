@@ -78,9 +78,9 @@ I’m interested in investigative studies in machine learning, especially for ge
 
  <a href="https://www.credly.com/badges/8e3c94f6-156e-46d2-9b8a-189d002b5433/public_url"><img align="right" src="https://images.credly.com/size/680x680/images/dfcd0d51-de72-4e1c-8f8c-11dad7711124/image.png" width="250">
   
- <a href="https://www.credly.com/org/coursera/badge/advanced-data-science-specialization.1"><img align="right" src="https://images.credly.com/size/680x680/images/0a8e2321-c9a1-45b4-a61d-cae2636e9ea3/Adv_Data_Science_Specialization_-_Coursera.png" width="250">
+ <a href="https://www.credly.com/org/coursera/badge/advanced-data-science-specialization.1"><img align="center" src="https://images.credly.com/size/680x680/images/0a8e2321-c9a1-45b4-a61d-cae2636e9ea3/Adv_Data_Science_Specialization_-_Coursera.png" width="250">
   
- <a href="https://www.credly.com/org/coursera/badge/advanced-data-science-capstone"><img align="right" src="https://images.credly.com/size/680x680/images/00898a99-7e63-4203-b601-f063ee5f5018/Advanced_Data_Science_Capstone.png" width="250">
+ <a href="https://www.credly.com/org/coursera/badge/advanced-data-science-capstone"><img align="left" src="https://images.credly.com/size/680x680/images/00898a99-7e63-4203-b601-f063ee5f5018/Advanced_Data_Science_Capstone.png" width="250">
  
   
 <!--### Pins:
