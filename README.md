@@ -80,7 +80,7 @@ I’m interested in investigative studies in machine learning, especially for ge
   
  <a href="https://www.credly.com/org/coursera/badge/advanced-data-science-specialization.1"><img align="right" src="https://images.credly.com/size/680x680/images/0a8e2321-c9a1-45b4-a61d-cae2636e9ea3/Adv_Data_Science_Specialization_-_Coursera.png" width="250">
   
- <a href="https://www.credly.com/org/coursera/badge/advanced-data-science-capstone"><img align="right" src="https://images.credly.com/size/680x680/images/00898a99-7e63-4203-b601-f063ee5f5018/Advanced_Data_Science_Capstone.png" width="250">
+ <a href="?"><img align="right" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/TensorFlow(badge).png" width="250">
  
   
 <!--### Pins:
