@@ -69,12 +69,7 @@ I’m interested in investigative studies in machine learning, especially for ge
 <a href="https://www.gnu.org/software/bash/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/bash.png" alt="" height="30" /></a>
 <a href="https://git-scm.com/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/git.png" alt="" height="30" /></a>
 <a href="https://discordpy.readthedocs.io/en/stable/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/discordpy.png" alt="" height="30" /></a>
- 
-
-
- <a href="https://www.credly.com/badges/8e3c94f6-156e-46d2-9b8a-189d002b5433/public_url"><img align="right" src="https://images.credly.com/size/680x680/images/dfcd0d51-de72-4e1c-8f8c-11dad7711124/image.png" width="300">
- 
- 
+  
 ### I'm listening to:
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=vc2yli4tj0cu5qjyuso4kjd4x&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=vc2yli4tj0cu5qjyuso4kjd4x&redirect=true)
@@ -84,8 +79,9 @@ I’m interested in investigative studies in machine learning, especially for ge
 <!--### Pins:
 [![@mishmanners's Holopin board](https://holopin.io/api/user/board?user=mishmanners)](https://holopin.io/@mishmanners)-->
 
-[![An image of @thekidpadra's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/thekidpadra)](https://holopin.io/@thekidpadra)
- 
+[![An image of @thekidpadra's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/thekidpadra)](https://holopin.io/@thekidpadra)  
+  
+ <a href="https://www.credly.com/badges/8e3c94f6-156e-46d2-9b8a-189d002b5433/public_url"><img align="right" src="https://images.credly.com/size/680x680/images/dfcd0d51-de72-4e1c-8f8c-11dad7711124/image.png" width="300">
  
 ### Watch, read, and catch up on content:
 - [GitHub blog articles](https://github.blog/) :books:
@@ -95,8 +91,10 @@ I’m interested in investigative studies in machine learning, especially for ge
 - [Blog posts on DEV](https://dev.to/) ✍️
 - [Blog posts on Codenewbies](https://community.codenewbie.org/) 💽
 - [Go watch her streams 😊](https://www.twitch.tv/aruuu/videos?filter=highlights&sort=time) 🎥
-- [Sessionize Profile](https://sessionize.com/)
-
+- [Sessionize Profile](https://sessionize.com/) 
+ 
+ 
+ 
 <img align="right" width="150" height="150" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/My-OctocatsShortest.gif"></a>
 ### Some Fun Facts about me:
 I've founded a few companies in the past :zap: I love playing video games but I don't stream that much maybe more in the future I don't know.I'm super into sports, including lots of outdoor adventures like hiking, snowboarding, swimming, and working out every day.For a quick response, DM me on Instagram or Twitter and for more formal matter contact me via email.
