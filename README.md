@@ -70,6 +70,11 @@ I’m interested in investigative studies in machine learning, especially for ge
 <a href="https://git-scm.com/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/git.png" alt="" height="30" /></a>
 <a href="https://discordpy.readthedocs.io/en/stable/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/discordpy.png" alt="" height="30" /></a>
  
+
+
+ <a href="https://www.credly.com/badges/8e3c94f6-156e-46d2-9b8a-189d002b5433/public_url"><img align="right" src="https://images.credly.com/size/680x680/images/dfcd0d51-de72-4e1c-8f8c-11dad7711124/image.png" width="300">
+ 
+ 
 ### I'm listening to:
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=vc2yli4tj0cu5qjyuso4kjd4x&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=vc2yli4tj0cu5qjyuso4kjd4x&redirect=true)
