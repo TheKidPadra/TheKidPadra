@@ -108,9 +108,12 @@ As for the charts 🥧, if you like my A+ stats, then you can make your own by c
 <!-- 2021 Skyline -->
 <img src="https://user-images.githubusercontent.com/36594527/208378907-aa4a028f-5546-4ac4-9245-140a80bec975.gif" width="700">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TheKidPadra&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for MishManners" width="700">
+<img src="https://github-readme-stats.vercel.app/api?username=TheKidPadra&theme=jolly&show_icons=true&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Stats for TheKidPadra" width="700">
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=TheKidPadra&theme=jolly" width="700">
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheKidPadra&layout=compact&theme=jolly" width="700">
+
 
 ```ascii 
           My 2022 GitHub Skyline
