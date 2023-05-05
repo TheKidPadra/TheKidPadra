@@ -81,7 +81,7 @@ I’m interested in investigative studies in machine learning, especially for ge
 
 [![An image of @thekidpadra's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/thekidpadra)](https://holopin.io/@thekidpadra)  
   
- <a href="https://www.credly.com/badges/8e3c94f6-156e-46d2-9b8a-189d002b5433/public_url"><img align="right" src="https://images.credly.com/size/680x680/images/dfcd0d51-de72-4e1c-8f8c-11dad7711124/image.png" width="290">
+ <a href="https://www.credly.com/badges/8e3c94f6-156e-46d2-9b8a-189d002b5433/public_url"><img align="right" src="https://images.credly.com/size/680x680/images/dfcd0d51-de72-4e1c-8f8c-11dad7711124/image.png" width="285">
  
 ### Watch, read, and catch up on content:
 - [GitHub blog articles](https://github.blog/) :books:
