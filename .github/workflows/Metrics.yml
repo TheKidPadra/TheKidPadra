@@ -14,5 +14,5 @@ jobs:
     steps:
       - uses: TheKidPadra/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.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 }}
           
