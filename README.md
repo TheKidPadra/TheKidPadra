@@ -82,6 +82,11 @@ I’m interested in investigative studies in machine learning, especially for ge
   
  <a href="https://www.credly.com/org/coursera/badge/advanced-data-science-specialization.1"><img align="left" src="https://images.credly.com/size/680x680/images/0a8e2321-c9a1-45b4-a61d-cae2636e9ea3/Adv_Data_Science_Specialization_-_Coursera.png" width="250">  
   
+
+  
+  
+  
+  
   
 <!--### Pins:
 [![@mishmanners's Holopin board](https://holopin.io/api/user/board?user=mishmanners)](https://holopin.io/@mishmanners)-->
@@ -113,8 +118,8 @@ As for the charts 🥧, if you like my A+ stats, then you can make your own by c
 <!-- 2020 graph
 <img src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ezgif-4-5370f601a9b3.gif" width="700"> -->
 
-<!-- 2021 Skyline -->
-<img src="https://user-images.githubusercontent.com/36594527/208378907-aa4a028f-5546-4ac4-9245-140a80bec975.gif" width="700">
+<!-- 2022 Skyline -->
+<img src="?" width="700">
 
 <img src="https://github-readme-stats.vercel.app/api?username=TheKidPadra&theme=jolly&show_icons=true&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Stats for TheKidPadra" width="700">
 
@@ -122,6 +127,7 @@ As for the charts 🥧, if you like my A+ stats, then you can make your own by c
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheKidPadra&layout=compact&theme=jolly" width="300"> -->
 
+<!--
 
 ```ascii 
           My 2022 GitHub Skyline
