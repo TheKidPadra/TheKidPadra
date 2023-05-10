@@ -119,7 +119,7 @@ As for the charts 🥧, if you like my A+ stats, then you can make your own by c
 <img src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ezgif-4-5370f601a9b3.gif" width="700"> -->
 
 <!-- 2022 Skyline -->
-<img src="?" width="700">
+<img src="https://github.com/TheKidPadra/TheKidPadra/blob/main/skyline.gif" width="700">
 
 <img src="https://github-readme-stats.vercel.app/api?username=TheKidPadra&theme=jolly&show_icons=true&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Stats for TheKidPadra" width="700">
 
