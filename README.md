@@ -76,11 +76,11 @@ I’m interested in investigative studies in machine learning, especially for ge
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22a52oj3e5hnylnh2ua2e6loy&cover_image=true&theme=novatorem&bar_color=24b6f5&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
- <a href="https://www.credly.com/badges/8e3c94f6-156e-46d2-9b8a-189d002b5433/public_url"><img align="left" src="https://images.credly.com/size/680x680/images/dfcd0d51-de72-4e1c-8f8c-11dad7711124/image.png" width="250">
+ <a href="https://www.credly.com/badges/8e3c94f6-156e-46d2-9b8a-189d002b5433/public_url"><img align="left" src="https://images.credly.com/size/680x680/images/dfcd0d51-de72-4e1c-8f8c-11dad7711124/image.png" width="200">
   
- <a href="?"><img align="left" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/TensorFlow(badge).png" width="250">
+ <a href="?"><img align="left" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/TensorFlow(badge).png" width="200">
   
- <a href="https://www.credly.com/org/coursera/badge/advanced-data-science-specialization.1"><img align="left" src="https://images.credly.com/size/680x680/images/0a8e2321-c9a1-45b4-a61d-cae2636e9ea3/Adv_Data_Science_Specialization_-_Coursera.png" width="250">  
+ <a href="https://www.credly.com/org/coursera/badge/advanced-data-science-specialization.1"><img align="left" src="https://images.credly.com/size/680x680/images/0a8e2321-c9a1-45b4-a61d-cae2636e9ea3/Adv_Data_Science_Specialization_-_Coursera.png" width="200">  
   
 
   
