@@ -17,7 +17,7 @@ I’m interested in investigative studies in machine learning, especially for ge
 <p align="left">
 <a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/socials/twitter%20(2).png" title = "Twitter" alt="" height="30" /></a>
 <a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/socials/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
-<a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/socials/instagram.png" alt="" height="30" /></a>
+<a href="https://www.instagram.com/thekidpadra/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/socials/instagram.png" alt="" height="30" /></a>
 <a href="https://www.twitch.tv/thekidpadra" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/socials/twitch.png" alt="" height="30" /></a>
 <a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/socials/youtube.png" alt="" height="30" /></a>
 <a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/socials/chrome.png" alt="" height="30" /></a>
