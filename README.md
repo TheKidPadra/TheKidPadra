@@ -44,8 +44,9 @@ I’m interested in Robotics and investigative studies in machine learning, espe
 <a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/Game%20Icons/Shadowverse.png" height="30" /></a> 
 <a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/Game%20Icons/Steam.png" height="30" /></a>
 <a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/Game%20Icons/Switch.png" height="30" /></a>
+<!--
 <a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/Game%20Icons/arena.png" height="30" /></a>
-
+-->
 
 <!-- TODO add in the rest of the URLs -->
 ### Languages, libraries and  Tools:
