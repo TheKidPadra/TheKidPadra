@@ -1,9 +1,4 @@
-## 👋🏻 Hey everyone, I'm Padra Esfandiyar®™ AKA TheKidPadra®™ 👋🏻
-<!--
-**TheKidPadra/TheKidPadra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-<!-- <img src=""> this is another way you can add in images and allows you to scale them -->
-![mylivewallpapers-com-Lee-Punishi](https://github.com/TheKidPadra/TheKidPadra/blob/main/mylivewallpapers-com-Lee-Punishi.gif)
 
 I’m interested in Robotics and investigative studies in machine learning, especially for generative models and probabilistic deep learning models.I'm really passionate about mathematics. In my senior year of high school, I won a silver medal in the 32nd Iranian Mathematical Olympiad. Ever since then, I've always wanted to study mathematics as my second major, although unforeseen circumstances have prevented me from doing so. However, I still have plans to pursue it in the future and i'm already spending a lot of time for it, as I find the depth and complexity of this scientific field incredibly intriguing.I’m currently a MSc AI and Robotics student @ SUT working on causal learning and diffusion models and at the same time I am employed as a Machine Learning Engineer at Mapna Group company while simultaneously pursuing my studies.I have the privilege of being one of the co-founders of MapnaMD2'HSE AI platform.In recent years, I have prioritized the establishment of HSE 4.0 at MAPNA MD2, under the expert guidance and supervision of [Mohammad Jafari](https://ir.linkedin.com/in/mohammad-jafari-b08977a6). This initiative represents an implementation of cutting-edge AI technology within our department, aimed at enhancing our operations and performance.You can read more about it [here](https://www.mapnamd2.com/en/).Every day, here, I get to create awesome experiences and engage with the vibrant GitHub developer community and I love it.So with that being said Feel free to get in touch 😊
 
