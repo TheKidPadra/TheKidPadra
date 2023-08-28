@@ -93,7 +93,8 @@ I’m interested in the fields of Robotics, Numerical and Mathematical Optimizat
 [![@mishmanners's Holopin board](https://holopin.io/api/user/board?user=mishmanners)](https://holopin.io/@mishmanners)-->
 
 [![An image of @thekidpadra's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/thekidpadra)](https://holopin.io/@thekidpadra)  
-  
+
+<!--  
 ### Watch, read, and catch up on content:
 - [GitHub blog articles](https://github.blog/) :books:
 - [Esports articles on Upcomer](https://upcomer.com/) 🕹️ Daily Esports
@@ -103,7 +104,7 @@ I’m interested in the fields of Robotics, Numerical and Mathematical Optimizat
 - [Blog posts on Codenewbies](https://community.codenewbie.org/) 💽
 - [Go watch her streams 😊](https://www.twitch.tv/aruuu/videos?filter=highlights&sort=time) 🎥
 - [Sessionize Profile](https://sessionize.com/) 
- 
+ -->
  
  
 <img align="right" width="150" height="150" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/My-OctocatsShortest.gif"></a>
