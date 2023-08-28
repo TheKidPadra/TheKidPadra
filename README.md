@@ -33,7 +33,6 @@ I’m interested in Robotics and investigative studies in machine learning, espe
 <!-- TODO add in the rest of the URLs -->
 ### I'm a gamer too, so you might find me on:
 <a href="http://discordapp.com/users/483432773416386581" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/Game%20Icons/discord.png" height="30" /></a>
-<a href="https://www.chess.com/member/thekidpadra" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/socials/chess.png" height="30" /></a> 
 <a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/Game%20Icons/ESO.png" height="30" /></a> 
 <a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/Game%20Icons/Epic.png" height="30" /></a> 
 <a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/Game%20Icons/LoL.png" height="30" /></a>
@@ -50,7 +49,7 @@ I’m interested in Robotics and investigative studies in machine learning, espe
 -->
 
 <!-- TODO add in the rest of the URLs -->
-### Languages, libraries and  Tools:
+### Languages, libraries and Tools:
 <p align="left">
 <a href="https://www.tensorflow.org/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/tensorflow.png" title = "tensorflow" alt="" height="35" /></a>
 <a href="https://pytorch.org/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/pytorch.png" alt="" height="40" /></a>
