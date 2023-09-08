@@ -24,7 +24,7 @@ I’m interested in the fields of Robotics, Numerical and Mathematical Optimizat
 <a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/socials/devto.png" alt="" height="30" /></a>
 <a href="https://open.spotify.com/user/vc2yli4tj0cu5qjyuso4kjd4x" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/socials/spotify.png" alt="" height="40" /></a>
 <a href="https://www.kaggle.com/padraesfandiar" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/socials/Kaggle_logo.png" alt="" height="30" /></a>
-<a href="https://www.hackerrank.com/TheKidPadra" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/socials/HackerRank.png" alt="" height="30" /></a>
+<a href="https://leetcode.com/TheKidPadra/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/socials/LeetCode.png" alt="" height="30" /></a>
 <a href="https://app.daily.dev/TheKidPadra" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/socials/dailydev.png" alt="" height="30" /></a>
 <a href="https://stackoverflow.com/users/21357173/padra-esfandiyar" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/socials/stackoverflow.png" alt="" height="30" /></a>
 
