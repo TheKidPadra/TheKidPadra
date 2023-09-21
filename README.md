@@ -127,9 +127,9 @@ As for the charts 🥧, if you like my C+ stats, then you can make your own by c
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=TheKidPadra&theme=jolly&include_all_commits=true&count_private=true" width="700">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheKidPadra&layout=compact&theme=jolly" width="300">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheKidPadra&layout=compact&theme=jolly" width="350">
 
-<!--
+
 
 ```ascii 
           My 2022 GitHub Skyline
