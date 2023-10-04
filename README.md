@@ -12,7 +12,7 @@ I’m interested in the fields of Robotics, Numerical and Mathematical Optimizat
 <a href="https://app.daily.dev/TheKidPadra"><img align="right" width="320" height="450" src="https://api.daily.dev/devcards/fd0bcbbf4acf4cc0a54519dcdfe63abc.png?r=tdb" width="700" alt="Padra Esfandiyar's Dev Card"/></a>
 
 
-### Find me all around the web:
+
 
 <p align="left">
 <a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/socials/twitter%20(2).png" title = "Twitter" alt="" height="30" /></a>
