@@ -130,7 +130,6 @@ As for the charts 🥧, if you like my C+ stats, then you can make your own by c
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheKidPadra&layout=compact&theme=jolly" width="350">
 
 
-
 ```ascii 
           My 2022 GitHub Skyline
           
