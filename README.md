@@ -91,7 +91,7 @@ I’m interested in the fields of Robotics, Numerical and Mathematical Optimizat
   
 <!--### Pins:
 [![@mishmanners's Holopin board](https://holopin.io/api/user/board?user=mishmanners)](https://holopin.io/@mishmanners)-->
-<!--### Pins:
+
 [![An image of @thekidpadra's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/thekidpadra)](https://holopin.io/@thekidpadra)  
 
 <!--  
