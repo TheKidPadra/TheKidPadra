@@ -84,13 +84,6 @@ I’m interested in the fields of Robotics, Numerical and Mathematical Optimizat
  <a href="https://www.credly.com/org/coursera/badge/advanced-data-science-specialization.1"><img align="left" src="https://images.credly.com/size/680x680/images/0a8e2321-c9a1-45b4-a61d-cae2636e9ea3/Adv_Data_Science_Specialization_-_Coursera.png" width="150">  
   
 
-  
-  
-  
-  
-  
-<!--### Pins:
-[![@mishmanners's Holopin board](https://holopin.io/api/user/board?user=mishmanners)](https://holopin.io/@mishmanners)-->
 
 [![An image of @thekidpadra's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/thekidpadra)](https://holopin.io/@thekidpadra)  
 
@@ -164,13 +157,9 @@ As for the charts 🥧, if you like my B- stats, then you can make your own by c
 ▁▁█████▅██▅████████████▅██████████████████▅█▁██▅█▁██▁
 
 ```
---!>
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=mishmanners&theme=radical)](https://github.com/ryo-ma/github-profile-trophy) ONLY if I want to show the trophy things here -->
+-->
 
 ### Watch my contribution graph get eaten by the snake 🐍
-<!--
-platane/snk works, it just puts it on a new branch 
-![TheKidPadra's snake gif](https://github.com/mishmanners/MishManners/blob/output/github-contribution-grid-snake.svg)-->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/TheKidPadra/TheKidPadra/blob/output/github-contribution-grid-snake.svg">
