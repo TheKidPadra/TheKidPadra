@@ -115,7 +115,7 @@ I've founded a few other companies in the past :zap: I love playing video games 
 
 If you haven't had a chance to check out [GitHub Skyline](https://skyline.github.com/) yet, do it now. It's a 3D visualisation of your contribution graph. You can interact with your 3D graph, make a video, download the STL file, add annotations, and even view it in Virtual Reality - you'll need a phone and a Google Cardboard to do this, or you can break out the fancy VR headsets. You can also view the ASCII art, and if you know the code combination, you can view the Konami code (コナミコマンド).
 
-As for the charts 🥧, if you like my C+ stats, then you can make your own by checking out the [GitHub Readme Stats Repo](https://github.com/anuraghazra/github-readme-stats) and [🔥 GitHub Readme Streak Stats](https://github-readme-streak-stats.herokuapp.com/demo/).
+As for the charts 🥧, if you like my B- stats, then you can make your own by checking out the [GitHub Readme Stats Repo](https://github.com/anuraghazra/github-readme-stats) and [🔥 GitHub Readme Streak Stats](https://github-readme-streak-stats.herokuapp.com/demo/).
 
 <!-- 2020 graph
 <img src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ezgif-4-5370f601a9b3.gif" width="700"> -->
@@ -129,6 +129,18 @@ As for the charts 🥧, if you like my C+ stats, then you can make your own by c
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheKidPadra&layout=compact&theme=jolly" width="350">
 
+                   
+```ascii 
+          @TheKidPadra' 2023 GitHub Skyline
+          
+         ✦                 ✦    ▁          ☽     ✦   
+ ✦                 █          ▁▄██      ✧     ✧      
+ ✧                ✦█  ▁ ▇     ████    ✦ ✧            
+  ✧   ✧   ✦  ▃     █✦ █✧█▂   ▇████ ▇▅   ▃ ✧✧     ▅   
+ ▃▁ ✧▂▅▂▅▂▃▅▁█ ✦▇  █▇▅█▃██▄███████▅██▅▂▄██▄▄▁ ▁▁✦█▂  
+▁██▅██████████▁▇█▆▇██████████████████████████▇██████▅
+```
+<!--
 
 ```ascii 
           My 2022 GitHub Skyline
@@ -141,21 +153,8 @@ As for the charts 🥧, if you like my C+ stats, then you can make your own by c
 ▁█████████▇██████▇██▇█▇███▇▇█▇▆█▆▇▇███▇███▇██████████
 ```
 
-<!--
-   
-          My 2021 GitHub Skyline          
-
-         ✦                 ✦    ▁          ☽     ✦   
- ✦                 █          ▁▄██      ✧     ✧      
- ✧                ✦█  ▁ ▇     ████    ✦ ✧            
-  ✧   ✧   ✦  ▃     █✦ █✧█▂   ▇████ ▇▅   ▃ ✧✧     ▅   
- ▃▁ ✧▂▅▂▅▂▃▅▁█ ✦▇  █▇▅█▃██▄███████▅██▅▂▄██▄▄▁ ▁▁✦█▂  
-▁██▅██████████▁▇█▆▇██████████████████████████▇██████▅
-
-```
-
 ``` 
-          @TheKidPadra' 2020 GitHub Skyline          
+          @TheKidPadra' 2021 GitHub Skyline          
 
      ✦            ✦    ✦    ✦ ▁               ✧  ✦   
                          ▁    █        ▃          █  
