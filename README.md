@@ -51,25 +51,42 @@ I’m interested in the fields of Robotics, Numerical and Mathematical Optimizat
 <!-- TODO add in the rest of the URLs -->
 ### Languages, libraries and Tools:
 <p align="left">
-<a href="https://www.tensorflow.org/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/tensorflow.png" title = "tensorflow" alt="" height="35" /></a>
-<a href="https://pytorch.org/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/pytorch.png" alt="" height="40" /></a>
- <a href="https://keras.io/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/keras.png" alt="" height="30" /></a>
+<a href="https://www.tensorflow.org/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/tensorflow.png" title = "tensorflow" alt="" height="30" /></a>
+<a href="https://pytorch.org/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/pytorch.png" alt="" height="30" /></a>
+ <a href="https://keras.io/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/keras.png" alt="" height="25" /></a>
 <a href="https://numpy.org/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/numpy.png" alt="" height="30" /></a>
 <a href="https://opencv.org/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/opencv.png" alt="" height="30" /></a>
-<a href="https://jupyter.org/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/jupyter.png" alt="" height="40" /></a>
-<a href="https://deepnote.com/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/deepnote.png" alt="" height="40" /></a>
+<a href="https://jupyter.org/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/jupyter.png" alt="" height="30" /></a>
 <a href="https://www.python.org/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/python.png" alt="" height="30" /></a>
+ <a href="https://isocpp.org/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/c%2B%2B.png" alt="" height="30" /></a>
 <a href="https://scikit-learn.org" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/scikitlearn.png" alt="" height="30" /></a>
-<a href="https://pandas.pydata.org/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/pandas.png" alt="" height="40" /></a>
-<a href="https://matplotlib.org/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/matplotlib.png" alt="" height="30" /></a>
-<a href="https://www.r-project.org/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/R.png" alt="" height="30" /></a>
+<a href="https://pandas.pydata.org/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/pandas.png" alt="" height="30" /></a>
+<a href="https://matplotlib.org/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/matplotlib.png" alt="" height="25" /></a>
 <a href="https://matlab.mathworks.com/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/Matlab.png" alt="" height="30" /></a>
+<!-- <a href="https://deepnote.com/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/deepnote.png" alt="" height="40" /></a> -->
+<!-- <a href="https://www.r-project.org/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/R.png" alt="" height="30" /></a> -->
+ 
+<a href="https://www.javascript.com/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/HTML5.png" alt="" height="30" /></a>
+<a href="https://www.javascript.com/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/CSS3.png" alt="" height="30" /></a>
 <a href="https://www.javascript.com/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/javascript.png" alt="" height="30" /></a>
+<a href="https://www.javascript.com/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/typescript.png" alt="" height="30" /></a>
+<a href="https://www.javascript.com/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/strapi_nextjs_9d80ba530a-removebg-preview.png" alt="" height="30" /></a>
+<a href="https://www.javascript.com/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/tailwind.png" alt="" height="30" /></a>
+<a href="https://www.javascript.com/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/Stripe.png" alt="" height="30" /></a>
+<a href="https://www.javascript.com/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/RapidAPI.png" alt="" height="30" /></a>
+<a href="https://www.javascript.com/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/node-js.png" alt="" height="30" /></a>
+<a href="https://www.javascript.com/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/Redux.png" alt="" height="30" /></a>
+<a href="https://www.javascript.com/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/react.png" alt="" height="30" /></a>
+
+<a href="https://www.javascript.com/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/Swift.png" alt="" height="30" /></a>
+<a href="https://www.javascript.com/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/SwiftUI.png" alt="" height="30" /></a>
+<a href="https://www.javascript.com/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/xcode.png" alt="" height="30" /></a>
+<!--
 <a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/C.png" alt="" height="30" /></a>
 <a href="https://isocpp.org/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/c%2B%2B.png" alt="" height="30" /></a>
 <a href="https://www.gnu.org/software/bash/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/bash.png" alt="" height="30" /></a>
 <a href="https://git-scm.com/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/git.png" alt="" height="30" /></a>
-<a href="https://discordpy.readthedocs.io/en/stable/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/discordpy.png" alt="" height="30" /></a>
+<a href="https://discordpy.readthedocs.io/en/stable/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/discordpy.png" alt="" height="30" /></a> -->
   
 ### I'm listening to:
 
