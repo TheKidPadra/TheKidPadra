@@ -133,11 +133,16 @@ As for the charts 🥧, if you like my B- stats, then you can make your own by c
 <!-- 2022 Skyline -->
 <img src="https://github.com/TheKidPadra/TheKidPadra/blob/main/2023_Github_Skyline.gif" width="700">
   
-<img src="https://github-readme-stats.vercel.app/api?username=TheKidPadra&show_icons=true&theme=jolly" width="700">
+<img src="https://github-readme-stats.vercel.app/api?username=TheKidPadra&show_icons=true&theme=merko" width="700">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=TheKidPadra&theme=jolly&include_all_commits=true&count_private=true" width="700">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=TheKidPadra&theme=merko&include_all_commits=true&count_private=true" width="700">
 
+<!--
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheKidPadra&layout=compact&theme=jolly" width="350">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheKidPadra&layout=pie&theme=jolly" width="350">
+-->
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheKidPadra&hide_progress=true&theme=merko" width="400">
 
                    
 ```ascii 
