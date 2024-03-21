@@ -35,7 +35,7 @@ I’m interested in the fields of Robotics, Numerical and Mathematical Optimizat
 <a href="http://discordapp.com/users/483432773416386581" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/Game%20Icons/discord.png" height="30" /></a>
 <a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/Game%20Icons/ESO.png" height="30" /></a> 
 <a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/Game%20Icons/Epic.png" height="30" /></a> 
-<a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/Game%20Icons/LoL.png" height="30" /></a>
+<a href="https://www.leagueoflegends.com/en-gb/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/Game%20Icons/LoL.png" height="30" /></a>
 <a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/Game%20Icons/Battlenet.png" height="30" /></a>
 <a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/Game%20Icons/Xbox.png" height="30" /></a> 
 <a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/Game%20Icons/PS.png" height="30" /></a> 
@@ -66,21 +66,21 @@ I’m interested in the fields of Robotics, Numerical and Mathematical Optimizat
 <!-- <a href="https://deepnote.com/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/deepnote.png" alt="" height="40" /></a> -->
 <!-- <a href="https://www.r-project.org/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/R.png" alt="" height="30" /></a> -->
  
-<a href="https://www.javascript.com/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/HTML5.png" alt="" height="30" /></a>
-<a href="https://www.javascript.com/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/CSS3.png" alt="" height="30" /></a>
+<a href="https://html.com/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/HTML5.png" alt="" height="30" /></a>
+<a href="https://html.com/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/CSS3.png" alt="" height="30" /></a>
 <a href="https://www.javascript.com/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/javascript.png" alt="" height="30" /></a>
-<a href="https://www.javascript.com/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/typescript.png" alt="" height="30" /></a>
-<a href="https://www.javascript.com/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/strapi_nextjs_9d80ba530a-removebg-preview.png" alt="" height="30" /></a>
-<a href="https://www.javascript.com/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/tailwind.png" alt="" height="30" /></a>
-<a href="https://www.javascript.com/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/Stripe.png" alt="" height="30" /></a>
-<a href="https://www.javascript.com/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/RapidAPI.png" alt="" height="30" /></a>
-<a href="https://www.javascript.com/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/node-js.png" alt="" height="30" /></a>
-<a href="https://www.javascript.com/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/Redux.png" alt="" height="30" /></a>
-<a href="https://www.javascript.com/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/react.png" alt="" height="30" /></a>
+<a href="https://www.typescriptlang.org/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/typescript.png" alt="" height="30" /></a>
+<a href="https://nextjs.org/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/strapi_nextjs_9d80ba530a-removebg-preview.png" alt="" height="30" /></a>
+<a href="https://tailwindcss.com/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/tailwind.png" alt="" height="30" /></a>
+<a href="https://stripe.com/ae?utm_campaign=AE_en_Search_Brand_Stripe_EXA-20645330145&utm_medium=cpc&utm_source=google&ad_content=676937872450&utm_term=stripe&utm_matchtype=e&utm_adposition=&utm_device=c&gad_source=1" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/Stripe.png" alt="" height="30" /></a>
+<a href="https://rapidapi.com/hub" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/RapidAPI.png" alt="" height="30" /></a>
+<a href="https://nodejs.org/en" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/node-js.png" alt="" height="30" /></a>
+<a href="https://redux.js.org/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/Redux.png" alt="" height="30" /></a>
+<a href="https://react.dev/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/react.png" alt="" height="30" /></a>
 
-<a href="https://www.javascript.com/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/Swift.png" alt="" height="30" /></a>
-<a href="https://www.javascript.com/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/SwiftUI.png" alt="" height="30" /></a>
-<a href="https://www.javascript.com/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/xcode.png" alt="" height="30" /></a>
+<a href="https://www.swift.org/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/Swift.png" alt="" height="30" /></a>
+<a href="https://www.swift.org/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/SwiftUI.png" alt="" height="30" /></a>
+<a href="https://developer.apple.com/xcode/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/xcode.png" alt="" height="30" /></a>
 <!--
 <a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/C.png" alt="" height="30" /></a>
 <a href="https://isocpp.org/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/ProgrammingToolsLogo/c%2B%2B.png" alt="" height="30" /></a>
