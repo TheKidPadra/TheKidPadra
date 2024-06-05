@@ -15,11 +15,11 @@ I’m interested in the fields of Robotics, Numerical and Mathematical Optimizat
 ### Find me all around the web:
 
 <p align="left">
-<a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/socials/twitter%20(2).png" title = "Twitter" alt="" height="30" /></a>
-<a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/socials/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
-<a href="https://www.instagram.com/thekidpadra/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/socials/instagram.png" alt="" height="30" /></a>
-<a href="https://www.twitch.tv/thekidpadra" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/socials/twitch.png" alt="" height="30" /></a>
-<a href="https://www.youtube.com/@MohammadEsfandiyar/featured" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/socials/youtube.png" alt="" height="30" /></a>
+<a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/socials/x-icon-twitter.png" title = "Twitter" alt="" height="30" /></a>
+<a href="www.linkedin.com/in/mohammadpadraesfandiyar" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/socials/linkedin-blue-logo.png" alt="" height="30" /></a>
+<a href="https://www.instagram.com/padraesfandiyar/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/socials/instagram.png" alt="" height="30" /></a>
+<!-- <a href="https://www.twitch.tv/thekidpadra" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/socials/twitch.png" alt="" height="30" /></a> -->
+<a href="https://www.youtube.com/channel/UCDpUGZ7vNBO4pSLVNULm-4Q" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/socials/youtube.png" alt="" height="30" /></a>
 <a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/socials/chrome.png" alt="" height="30" /></a>
 <a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/socials/devto.png" alt="" height="30" /></a>
 <a href="https://open.spotify.com/user/vc2yli4tj0cu5qjyuso4kjd4x" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/socials/spotify.png" alt="" height="40" /></a>
