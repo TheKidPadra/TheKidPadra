@@ -4,8 +4,7 @@
 
 <!-- <img src=""> this is another way you can add in images and allows you to scale them -->
 ![mylivewallpapers-com-Lee-Punishi](https://github.com/TheKidPadra/TheKidPadra/blob/main/mylivewallpapers-com-Lee-Punishi.gif)
-
-I’m interested in the fields of Robotics, Numerical and Mathematical Optimization within Robotic Systems, Computer Vision as it pertains to decision-making, Image Processing, and investigative studies in machine learning, especially for generative models and probabilistic deep learning models. I work as a Software Engineer, engaged in the development of websites, iOS/iPadOS, and web applications, alongside my academic pursuits. I’m currently a M.Sc. Student @ Columbia University, working on projects to enhance visual data processing to elevate the automation of Robots, casual learning, and diffusion models at the same time. Every day, here, I get to create awesome experiences and engage with the vibrant GitHub developer community and I love it. So with that being said Feel free to get in touch 😊
+Every day, here, I get to create awesome experiences and engage with the vibrant GitHub developer community and I love it. So with that being said Feel free to get in touch 😊
 
 <!-- ![2021-08-10 20-43-14 2021-08-10 20_45_32](https://user-images.githubusercontent.com/36594527/131284497-24a6db5f-d86d-4548-81cc-fa6aa186892c.gif) -->
 
