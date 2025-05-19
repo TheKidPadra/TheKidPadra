@@ -15,7 +15,7 @@ Every day, here, I get to create awesome experiences and engage with the vibrant
 
 <p align="left">
 <a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/socials/x-icon-twitter.png" title = "Twitter" alt="" height="30" /></a>
-<a href="www.linkedin.com/in/mohammadpadraesfandiyar" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/socials/linkedin-blue-logo.png" alt="" height="30" /></a>
+<a href="https://www.linkedin.com/in/mohammadpadraesfandiyar/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/socials/linkedin-blue-logo.png" alt="" height="30" /></a>
 <a href="https://www.instagram.com/padraesfandiyar/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/socials/instagram.png" alt="" height="30" /></a>
 <!-- <a href="https://www.twitch.tv/thekidpadra" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/socials/twitch.png" alt="" height="30" /></a> -->
 <a href="https://www.youtube.com/channel/UCDpUGZ7vNBO4pSLVNULm-4Q" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/socials/youtube.png" alt="" height="30" /></a>
