@@ -141,7 +141,9 @@ As for the charts 🥧, if you like my B- stats, then you can make your own by c
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheKidPadra&layout=pie&theme=jolly" width="350">
 -->
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheKidPadra&hide_progress=true&theme=merko" width="400">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheKidPadra&layout=compact&hide_progress=true&theme=merko" width="400">
+
+
 
                    
 ```ascii 
