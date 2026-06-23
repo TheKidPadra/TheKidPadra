@@ -118,7 +118,7 @@ Every day, here, I get to create awesome experiences and engage with the vibrant
  
 <img align="right" width="150" height="150" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/My-OctocatsShortest.gif"></a>
 ### Some Fun Facts about me:
-I've founded a few other companies in the past :zap: I love playing video games but I don't stream that much maybe more in the future I don't know.I'm super into sports, including lots of outdoor adventures like hiking, snowboarding, swimming, and working out every day.For a quick response, DM me on Instagram or Twitter and for more formal matter contact me via email.
+I love playing video games. I'm super into sports, including lots of outdoor adventures like running, snowboarding, swimming, and working out every day. For a quick response, DM me on Instagram and for more formal matter contact me via email.
 
 ## GitHub Stats
 
