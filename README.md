@@ -16,16 +16,16 @@ Every day, here, I get to create awesome experiences and engage with the vibrant
 <p align="left">
 <a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/socials/x-icon-twitter.png" title = "Twitter" alt="" height="30" /></a>
 <a href="https://www.linkedin.com/in/mohammadpadraesfandiyar/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/socials/linkedin-blue-logo.png" alt="" height="30" /></a>
-<a href="https://www.instagram.com/padraesfandiyar/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/socials/instagram.png" alt="" height="30" /></a>
+<a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/socials/instagram.png" alt="" height="30" /></a>
 <!-- <a href="https://www.twitch.tv/thekidpadra" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/socials/twitch.png" alt="" height="30" /></a> -->
-<a href="https://www.youtube.com/channel/UCDpUGZ7vNBO4pSLVNULm-4Q" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/socials/youtube.png" alt="" height="30" /></a>
+<a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/socials/youtube.png" alt="" height="30" /></a>
 <a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/socials/chrome.png" alt="" height="30" /></a>
 <a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/socials/devto.png" alt="" height="30" /></a>
-<a href="https://open.spotify.com/user/vc2yli4tj0cu5qjyuso4kjd4x" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/socials/spotify.png" alt="" height="40" /></a>
-<a href="https://www.kaggle.com/padraesfandiar" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/socials/Kaggle_logo.png" alt="" height="30" /></a>
-<a href="https://leetcode.com/TheKidPadra/" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/socials/LeetCode.png" alt="" height="30" /></a>
+<a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/socials/spotify.png" alt="" height="40" /></a>
+<a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/socials/Kaggle_logo.png" alt="" height="30" /></a>
+<a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/socials/LeetCode.png" alt="" height="30" /></a>
 <a href="https://app.daily.dev/TheKidPadra" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/socials/dailydev.png" alt="" height="30" /></a>
-<a href="https://stackoverflow.com/users/21357173/padra-esfandiyar" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/socials/stackoverflow.png" alt="" height="30" /></a>
+<a href="?" target="blank"><img align="center" src="https://github.com/TheKidPadra/TheKidPadra/blob/main/socials/stackoverflow.png" alt="" height="30" /></a>
 
 </p>
 
