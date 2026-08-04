@@ -180,9 +180,9 @@ As for the charts 🥧, if you like my B- stats, then you can make your own by c
 ### Watch my contribution graph get eaten by the snake 🐍
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/TheKidPadra/TheKidPadra/blob/output/github-contribution-grid-snake.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/TheKidPadra/TheKidPadra/blob/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://github.com/TheKidPadra/TheKidPadra/blob/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/TheKidPadra/TheKidPadra/blob/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/TheKidPadra/TheKidPadra/blob/output/github-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/TheKidPadra/TheKidPadra/blob/output/github-snake-dark.svg">
 </picture>
 
 <!--
