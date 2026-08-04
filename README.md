@@ -1,4 +1,4 @@
-## 👋🏻 Hey everyone, I'm Mohammad Padra Esfandiyar®™ AKA TheKidPadra®™ 👋🏻
+## 👋🏻 Hey everyone, I'm Mohammad Padra Esfandiyar 👋🏻
 <!--
 **TheKidPadra/TheKidPadra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
