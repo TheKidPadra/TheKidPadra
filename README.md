@@ -137,8 +137,8 @@ As for the charts 🥧, if you like my B- stats, then you can make your own by c
 <a href="https://github-stats-extended.vercel.app/api?username=TheKidPadra&hide_border=true&show_icons=true&theme=merko&card_width=500">
   <img height=200 align="center" src="https://github-stats-extended.vercel.app/api?username=TheKidPadra&hide_border=true&show_icons=true&theme=merko&card_width=500" />
 </a>
-<a href="https://github-stats-extended.vercel.app/api/top-langs?username=TheKidPadra&layout=compact&hide_progress=true&hide_border=true&langs_count=8&theme=merko&card_width=400">
-  <img height=200 align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=TheKidPadra&layout=compact&hide_progress=true&hide_border=true&langs_count=8&theme=merko&card_width=400" />
+<a href="https://github-stats-extended.vercel.app/api/top-langs?username=TheKidPadra&layout=compact&hide_progress=true&hide_border=true&langs_count=8&theme=merko&card_width=320">
+  <img height=200 align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=TheKidPadra&layout=compact&hide_progress=true&hide_border=true&langs_count=8&theme=merko&card_width=320" />
 </a>
 <!---->
   
