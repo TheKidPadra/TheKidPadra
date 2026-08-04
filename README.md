@@ -131,18 +131,8 @@ As for the charts 🥧, if you like my B- stats, then you can make your own by c
 
 <!-- 2022 Skyline -->
 <img src="https://github.com/TheKidPadra/TheKidPadra/blob/main/2023_Github_Skyline.gif" width="1100">
-
-
-<!-- -->
-<a href="https://github-stats-extended.vercel.app/api?username=TheKidPadra&hide_border=true&show_icons=true&theme=merko&card_width=500">
-  <img height=200 align="center" src="https://github-stats-extended.vercel.app/api?username=TheKidPadra&hide_border=true&show_icons=true&theme=merko&card_width=500" />
-</a>
-<a href="https://github-stats-extended.vercel.app/api/top-langs?username=TheKidPadra&layout=compact&hide_progress=true&hide_border=true&langs_count=8&theme=merko&card_width=320">
-  <img height=200 align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=TheKidPadra&layout=compact&hide_progress=true&hide_border=true&langs_count=8&theme=merko&card_width=320" />
-</a>
-<!---->
   
-<!-- <img src="https://github-stats-extended.vercel.app/api?username=TheKidPadra&hide_border=true&show_icons=true&theme=merko" width="700"> -->
+<img src="https://github-stats-extended.vercel.app/api?username=TheKidPadra&hide_border=true&show_icons=true&theme=merko" width="700">
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=TheKidPadra&theme=merko&include_all_commits=true&count_private=true&hide_border=true&card_width=700">
 
