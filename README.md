@@ -3,7 +3,10 @@
 **TheKidPadra/TheKidPadra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <!-- <img src=""> this is another way you can add in images and allows you to scale them -->
-![mylivewallpapers-com-Lee-Punishi](https://github.com/TheKidPadra/TheKidPadra/blob/main/mylivewallpapers-com-Lee-Punishi.gif)
+<!--![mylivewallpapers-com-Lee-Punishi](https://github.com/TheKidPadra/TheKidPadra/blob/main/mylivewallpapers-com-Lee-Punishi.gif)-->
+![Header_Wallpaper](https://github.com/TheKidPadra/TheKidPadra/blob/main/Header_Wallpaper.png)
+
+
 Every day, here, I get to create awesome experiences and engage with the vibrant GitHub developer community and I love it. So with that being said Feel free to get in touch 😊
 
 <!-- ![2021-08-10 20-43-14 2021-08-10 20_45_32](https://user-images.githubusercontent.com/36594527/131284497-24a6db5f-d86d-4548-81cc-fa6aa186892c.gif) -->
